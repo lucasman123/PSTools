@@ -1,0 +1,1 @@
+Get-DnsClientServerAddress -InterfaceAlias "Ethernet 2" -AddressFamily IPv4 | Set-DnsClientServerAddress -ServerAddresses ("8.8.8.8","8.8.4.4")

@@ -1,0 +1,1 @@
+Get-DnsClientServerAddress -InterfaceAlias "Ethernet 2" -AddressFamily IPv4
